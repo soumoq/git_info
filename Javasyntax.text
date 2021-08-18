@@ -1,5 +1,6 @@
 
 //To get sha1 key in ubuntu
+github provate key - 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
 keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
 //8A:01:9A:84:BF:D2:3F:07:00:38:89:82:D4:7A:EA:B9:73:BF:F8:9A
 //6f:c3:02:8f:f9:89:2e:f9:63:ea:70:be:92:ce:4c:53:6d:d4:fb:71
